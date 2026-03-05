@@ -1,6 +1,5 @@
 // navigation_system.cpp
-// Complete integrated navigation system in ONE executable
-// Combines: Obstacle Avoidance, D* Lite, Pure Pursuit, Velocity Planning
+// Combines: Obstacle Avoidance, D* Lite, Pure Pursuit, Velocity Planning are all integrated in 1 file
 
 #include <rclcpp/rclcpp.hpp>
 #include <nav_msgs/msg/occupancy_grid.hpp>
